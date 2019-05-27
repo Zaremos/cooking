@@ -1,0 +1,10 @@
+{
+  "name": "cooking",
+  "version": "1.0.0",
+  "description": "Cooking recipes",
+  "main": "index.js",
+  "repository": "git@github.com:Zaremos/cooking.git",
+  "author": "Martin Björkman <zaremos@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
